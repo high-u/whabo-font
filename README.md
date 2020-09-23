@@ -1,1 +1,2 @@
-# whabo-font
+# WHABO Font
+
